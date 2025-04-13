@@ -1,1 +1,2 @@
 # CuriousAboutData ꩜
+Easy !
