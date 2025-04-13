@@ -28,6 +28,7 @@ with zipfile.ZipFile(zippedFilePath) as f:
 with open(rf"{unzipPath}\animation.csv", "r") as f:
     print(f.readline())
 ```
+> movie_id,movie_name,year,certificate,runtime,genre,rating,description,director,director_id,star,star_id,votes,gross(in $)
 
 
 
